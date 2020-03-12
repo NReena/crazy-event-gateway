@@ -1,0 +1,8 @@
+batchprocess:
+  timewindow.ms: 15000
+  size: 1000
+  eventlogdir: data
+
+
+ratelimiter:
+  maxrequestsperhour: 5
